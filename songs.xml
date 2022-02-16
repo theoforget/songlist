@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylesheet.css" ?>
+<CoverSongs>
+    <Song>
+        <Artist> Jack Harlow </Artist>
+        <Title> Tyler Herro </Title>
+        <Genre> Hip-Hop/Rap </Genre>
+        <Year> 2020 </Year>
+    </Song>
+    <Song>
+        <Artist> Bee Gees </Artist>
+        <Title> Stayin' Alive </Title>
+        <Genre> Disco </Genre>
+        <Year> 1977 </Year>
+    </Song>
+    <Song>
+        <Artist> Doja Cat </Artist>
+        <Title> Get Into It (Yuh) </Title>
+        <Genre> Hip-Hop/Rap </Genre>
+        <Year> 2021 </Year>
+    </Song>
+    <Song>
+        <Artist> Outkast </Artist>
+        <Title> So Fresh, So Clean </Title>
+        <Genre> R&amp;B/Soul </Genre>
+        <Year> 2000 </Year>
+    </Song>
+    <Song>
+        <Artist> Lil Keed </Artist>
+        <Title> Snake </Title>
+        <Genre> Hip-Hop/Rap </Genre>
+        <Year> 2019 </Year>
+    </Song>
+    <Song>
+        <Artist> Yes </Artist>
+        <Title> Roundabout </Title>
+        <Genre> Alternative/Indie </Genre>
+        <Year> 1971 </Year>
+    </Song>
+    <Song>
+        <Artist> 2Pac </Artist>
+        <Title> Do For Love </Title>
+        <Genre> Hip-Hop/Rap</Genre>
+        <Year> 1998 </Year>
+    </Song>
+    <Song>
+        <Artist> Joe Hisaishi </Artist>
+        <Title> Ashitaka and San </Title>
+        <Genre> Piano </Genre>
+        <Year> 1997 </Year>
+    </Song>
+    <Song>
+        <Artist> JAY-Z </Artist>
+        <Title> The Story of O.J. </Title>
+        <Genre> Hip-Hop/Rap </Genre>
+        <Year> 2017 </Year>
+    </Song>
+    <Song>
+        <Artist> George Benson </Artist>
+        <Title> Give Me The Night </Title>
+        <Genre> R&amp;B/Soul </Genre>
+        <Year> 1980 </Year>
+    </Song>
+</CoverSongs>

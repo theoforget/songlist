@@ -1,0 +1,44 @@
+CoverSongs {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    grid-row-gap: 15px;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+    grid-column-gap: 5%;
+}
+
+Song {
+    display:grid;
+    justify-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: dotted;
+}
+
+Artist {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: bold;
+    font-size: 18px;
+    color: #4d4db0;
+}
+
+Title {
+    font-style: italic;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: bolder;
+    font-size: 22px;
+    color: darkblue;
+}
+
+Genre {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    color: grey;
+}
+
+Year {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+    color: grey;
+}
